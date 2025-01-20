@@ -1,7 +1,6 @@
 filetype # Replacement of imghdr
 gTTS
 googlesearch-python
-httpx[http2]
 TheApix
 pyfiglet
 lexica-api
